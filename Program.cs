@@ -107,9 +107,9 @@
 
     }
      Add New Appointment
-    2️ Confirm Appointment
-    3️ Complete Appointment
-    4️ Cancel Appointment
-    5️ Show All Appointments
-    6️ Exit
+     Confirm Appointment
+     Complete Appointment
+     Cancel Appointment
+     Show All Appointments
+     Exit
 */
